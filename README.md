@@ -36,3 +36,4 @@ The `<GifSearch />` component will render a form that receives the user input fo
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-async-gif-search-lab'>React Async Gif Search Lab</a> on Learn.co and start learning to code for free.</p>
+# myGifSearch
